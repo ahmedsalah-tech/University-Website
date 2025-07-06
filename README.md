@@ -10,17 +10,6 @@ Includes pages for home, admissions, fees, and contact with a functional contact
 - Admission and Contact pages use SMTP.js (via CDN) for sending emails over the internet
 - Clean and organized layout
 
-## Project Structure
-
-University-Website/
-├── css/
-├── image/
-├── javascript/
-├── Admission_page.html
-├── Contact_page.html
-├── fees_page.html
-├── index.html
-
 ## How to Run
 
 1. Clone the repo:  
